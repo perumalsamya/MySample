@@ -1,0 +1,2 @@
+/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/TrySQLite/obj/x86/Debug/.NETFramework,Version=v4.6.AssemblyAttribute.cs
+/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/TrySQLite/obj/x86/Debug/TrySQLite.gtk-gui.gui.stetic

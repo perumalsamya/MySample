@@ -1,0 +1,7 @@
+E:\New WPF\PosApp\PClCryptoTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\New WPF\PosApp\PClCryptoTest\output\ConsoleApplication1.exe.config
+E:\New WPF\PosApp\PClCryptoTest\output\ConsoleApplication1.exe
+E:\New WPF\PosApp\PClCryptoTest\output\ConsoleApplication1.pdb
+E:\New WPF\PosApp\PClCryptoTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\New WPF\PosApp\PClCryptoTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\New WPF\PosApp\PClCryptoTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

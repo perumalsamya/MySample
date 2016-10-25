@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="TrySQLite/TrySQLite.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrySQLite/MainWindow.cs">
+    <Files>
+      <File FileName="TrySQLite/Program.cs" Line="12" Column="4" />
+      <File FileName="TrySQLite/gtk-gui/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="TrySQLite/MainWindow.cs" Line="29" Column="1" />
+      <File FileName="TrySQLite/EmptyClass.cs" Line="4" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DateTimeApp" expanded="True">
+            <Node name="DateTimeApp" expanded="True" />
+            <Node name="TrySQLite" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/Program.cs" line="19" column="1" />
+      <Breakpoint file="/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/Program.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../IvendMasterLinux/CXS.Schedular/Job/CustomNativeJob.cs" line="45" offsetX="320" offsetY="792" expression="ex" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

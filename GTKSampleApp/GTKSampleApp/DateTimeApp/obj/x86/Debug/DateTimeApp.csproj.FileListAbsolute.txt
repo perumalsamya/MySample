@@ -1,0 +1,10 @@
+D:\GTKCoherent\DateTimeApp\obj\x86\Debug\DateTimeApp.exe
+D:\GTKSampleApp\GTKSampleApp\DateTimeApp\bin\Debug\DateTimeApp.exe
+D:\GTKSampleApp\GTKSampleApp\DateTimeApp\bin\Debug\DateTimeApp.pdb
+D:\GTKSampleApp\GTKSampleApp\DateTimeApp\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\GTKSampleApp\GTKSampleApp\DateTimeApp\bin\Debug\Lucene.Net.dll
+D:\GTKSampleApp\GTKSampleApp\DateTimeApp\bin\Debug\Lucene.Net.pdb
+D:\GTKSampleApp\GTKSampleApp\DateTimeApp\bin\Debug\Lucene.Net.xml
+D:\GTKSampleApp\GTKSampleApp\DateTimeApp\obj\x86\Debug\DateTimeApp.csprojResolveAssemblyReference.cache
+D:\GTKSampleApp\GTKSampleApp\DateTimeApp\obj\x86\Debug\DateTimeApp.exe
+D:\GTKSampleApp\GTKSampleApp\DateTimeApp\obj\x86\Debug\DateTimeApp.pdb

@@ -1,0 +1,7 @@
+/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/obj/x86/Debug/.NETFramework,Version=v4.6.AssemblyAttribute.cs
+/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/bin/Debug/DateTimeApp.exe.mdb
+/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/bin/Debug/DateTimeApp.exe
+/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/obj/x86/Debug/DateTimeApp.exe
+/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/obj/x86/Debug/DateTimeApp.exe.mdb
+/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/bin/Debug/ICSharpCode.SharpZipLib.dll
+/home/aditi/Downloads/ServiceDemon-master/DateTimeApp/bin/Debug/Lucene.Net.dll
