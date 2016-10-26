@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using System.Text;
+using System.Security.Cryptography;
 
 namespace TrySQLite
 {
@@ -98,7 +100,15 @@ namespace TrySQLite
     {
         public string Hash(string input)
         {
-            return input.GetHashCode().ToString();
+            var sha1 = SHA256.Create();
+            var inputBytes = Encoding.ASCII.GetBytes(input);
+            var hash = sha1.ComputeHash(inputBytes);
+            var sb = new StringBuilder();
+            for (var i = 0; i < hash.Length; i++)
+            {
+                sb.Append(hash[i].ToString("X2"));
+            }
+            return sb.ToString();
         }
 
         public string HashPassword(User user, string password)
